@@ -12,13 +12,8 @@ npm i
 # 开启服务器，配合 nodemon，ts-node 做好监测 src/ 下 .ts 文件修改热更新
 npm run dev
 
-# 打包
+# 编译为 js
 npm run build
 ```
 
-
-
-*Tips:*
-
-- 可以通过`process.env.NODE_ENV`来判断是`development`还是`production`环境
 
